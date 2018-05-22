@@ -127,6 +127,7 @@ set(engine_SRCS # Except main.cpp.
     src/Weaver.cpp
     src/Wireframe2gcode.cpp
 
+    src/infill/Cross3D.cpp
     src/infill/ImageBasedDensityProvider.cpp
     src/infill/NoZigZagConnectorProcessor.cpp
     src/infill/PolygonBasedDensityProvider.cpp
